@@ -1,2 +1,4 @@
 # excel-vba-yahoo-finance-historical-stock-data
- how to download historical stock prices using the Yahoo Finance API (called “table.csv”) and discuss the following topics that will allow you successfully import data in Excel from Yahoo in a simple and automatic way.
+This project contains a simple dashboard and minimalist VBA code that allows you to import historical stock prices from Yahoo Finance into Excel in an automatic, efficient and very simple way. 
+
+Please, go to http://ribon.ch/excel-vba-yahoo-finance-historical-stock-data/ form more details.
